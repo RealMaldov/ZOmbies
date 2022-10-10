@@ -1,0 +1,38 @@
+CMD
+
+
+se abre precionando el boton con el logo de windos y la r y luego poner cmd y luego enter
+
+espara mencionarse a algo
+
+sir ve para referirse a algo
+
+
+
+cd:para ir a una carpeta:cambiar directorio
+
+md:es la sintaxsi de los codigos:modder
+
+echo: mandar un mensaje:enviar mensaje
+
+dir:lista de tu computadora:directorio de la computadora
+
+color:cambiar el color:color
+
+cls:limpar pantalla:clear screen
+
+
+
+
+
+
+
+Make:hacer
+
+change:cambiar
+
+clear screen:limpiar pantalla
+
+c:/users/:usuarios
+
+CD es para ir a la ____carpeta____ anterior
