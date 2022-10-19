@@ -1,7 +1,7 @@
 CMD
 
 
-se abre precionando el boton con el logo de windos y la r y luego poner cmd y luego enter
+se abre precionando el boton con el logo de windos y la r y luego poner cmd y luego enter <- bien
 
 espara mencionarse a algo
 
@@ -9,30 +9,30 @@ sir ve para referirse a algo
 
 
 
-cd:para ir a una carpeta:cambiar directorio
+cd:para ir a una carpeta:cambiar directorio <- bien
 
-md:es la sintaxsi de los codigos:modder
+md:es la sintaxsi de los codigos:modder <- a qué te reiferes con modder?
 
-echo: mandar un mensaje:enviar mensaje
+echo: mandar un mensaje:enviar mensaje <- bien
 
-dir:lista de tu computadora:directorio de la computadora
+dir:lista de tu computadora:directorio de la computadora <- bien
 
-color:cambiar el color:color
+color:cambiar el color:color <- bien
 
-cls:limpar pantalla:clear screen
-
-
+cls:limpar pantalla:clear screen <- bien
 
 
 
 
 
-Make:hacer
 
-change:cambiar
 
-clear screen:limpiar pantalla
+Make:hacer <- bien
 
-c:/users/:usuarios
+change:cambiar <- bien
+
+clear screen:limpiar pantalla <- bien
+
+c:/users/:usuarios <- son carpetas
 
 CD es para ir a la ____carpeta____ anterior
